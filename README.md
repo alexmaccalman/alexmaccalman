@@ -1,6 +1,7 @@
 ### Hi there 👋
+My vision is to inspire people towards a vision that intentionally creates a positive change in the world!  
+
 I am an aspiring AI Edge Engineer. I'm a proven leader in innovation management and digital transformation, a published author, systems thinker, Army Green Beret, and life-long learner.  
-My vision is to inspire people towards a vision that intentionally creates a positive change in the world!
 
 Here is my [Website](https://mywebappadm-asp.azurewebsites.net/).  
 Here is my [LinkedIn Profile](https://www.linkedin.com/in/alexmaccalman/).  
